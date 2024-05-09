@@ -30,7 +30,20 @@ const teamMembers = [
         weaknesses: 'heading ability',
         skills: ['dribbling','shooting','passing'],
         biography: 'Messi is a really cool dude'
+    }, {
+        name:'Lionel Messi',
+        age:36,
+        activePlayer:true,
+        position: 'kid',
+        strengths: 'ball control',
+        weaknesses: 'heading ability',
+        skills: ['dribbling','shooting','passing'],
+        biography: 'Messi is a really cool dude'
     },
+
+
+
+
 ]
 
 function generateTeamCards(){
@@ -44,12 +57,16 @@ let backgroundColor
 switch(member.position.toLowerCase()){
     case 'forward':
         backgroundColor="red"
-        break
-        case 'mid':
+    break
+    case 'mid':
         backgroundColor="green"
-        break
-            case 'defender':
-                backgroundColor="orange"
+    break
+    case 'defender':
+        backgroundColor="orange"
+    break
+
+    case 'kid':
+                backgroundColor="blue"
                 break
 }
 
