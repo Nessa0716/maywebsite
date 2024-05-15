@@ -39,7 +39,61 @@ const teamMembers = [
         weaknesses: 'heading ability',
         skills: ['dribbling','shooting','passing'],
         biography: 'Messi is a really cool dude'
-    },
+    }, {
+        name:'Lionel Messi',
+        age:36,
+        activePlayer:true,
+        position: 'kid',
+        strengths: 'ball control',
+        weaknesses: 'heading ability',
+        skills: ['dribbling','shooting','passing'],
+        biography: 'Messi is a really cool dude'
+    }, {
+        name:'Lionel Messi',
+        age:36,
+        activePlayer:true,
+        position: 'kid',
+        strengths: 'ball control',
+        weaknesses: 'heading ability',
+        skills: ['dribbling','shooting','passing'],
+        biography: 'Messi is a really cool dude'
+    }, {
+        name:'Lionel Messi',
+        age:36,
+        activePlayer:true,
+        position: 'kid',
+        strengths: 'ball control',
+        weaknesses: 'heading ability',
+        skills: ['dribbling','shooting','passing'],
+        biography: 'Messi is a really cool dude'
+    }, {
+        name:'Lionel Messi',
+        age:36,
+        activePlayer:true,
+        position: 'kid',
+        strengths: 'ball control',
+        weaknesses: 'heading ability',
+        skills: ['dribbling','shooting','passing'],
+        biography: 'Messi is a really cool dude'
+    }, {
+        name:'Lionel Messi',
+        age:36,
+        activePlayer:true,
+        position: 'kid',
+        strengths: 'ball control',
+        weaknesses: 'heading ability',
+        skills: ['dribbling','shooting','passing'],
+        biography: 'Messi is a really cool dude'
+    }, {
+        name:'Lionel Messi',
+        age:36,
+        activePlayer:true,
+        position: 'kid',
+        strengths: 'ball control',
+        weaknesses: 'heading ability',
+        skills: ['dribbling','shooting','passing'],
+        biography: 'Messi is a really cool dude'
+    }, 
 
 
 
